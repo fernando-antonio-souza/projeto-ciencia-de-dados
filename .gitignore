@@ -1,0 +1,30 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Arquivos temporários
+*.tmp
+
+# Sistema Linux
+*.swp
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+dataset/
+
+dados.csv
+
+modelo.joblib
