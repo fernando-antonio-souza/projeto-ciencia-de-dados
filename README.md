@@ -200,17 +200,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos importantes d
 
 ---
 
-## 🔮 Melhorias Futuras
-
-* [ ] Criar dashboard interativo com Streamlit
-* [ ] Disponibilizar API para previsão
-* [ ] Automatizar pipeline de treinamento
-* [ ] Implementar validação cruzada
-* [ ] Realizar otimização de hiperparâmetros
-* [ ] Publicar aplicação em nuvem
-
----
-
 ## 👨‍💻 Autor
 
 Fernando Antonio Souza
