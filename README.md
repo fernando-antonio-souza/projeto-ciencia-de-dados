@@ -2,6 +2,11 @@
 
 ## 📖 Sobre o Projeto
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Concluído-green)
+
 Este projeto foi desenvolvido com o objetivo de aplicar técnicas de Ciência de Dados e Machine Learning na previsão de preços de anúncios do Airbnb.
 
 Durante o desenvolvimento foram realizadas etapas fundamentais do processo de análise de dados, incluindo:
