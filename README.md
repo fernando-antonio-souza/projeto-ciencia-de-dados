@@ -62,6 +62,10 @@ Construir um modelo capaz de prever o preço de uma hospedagem do Airbnb com bas
 
 * Jupyter Notebook
 
+### Interface/Dashboard
+
+* Streamlit
+
 ---
 
 ## 📂 Estrutura do Projeto
